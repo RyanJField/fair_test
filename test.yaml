@@ -1,0 +1,10 @@
+- data_product: Namespace/test/use/same/file
+  root: file:///Users/ryanfield/Dev/fair_test
+  path: test4.csv
+  file_type: csv
+  version: "1.0.0"
+  use:
+    namespace: UnregisteredNamespace
+  authors: |
+    https://github.com/FAIRDataPipeline
+    name: Ryan J FIeld
